@@ -130,14 +130,14 @@ cython_debug/
 # ===========================
 
 # TensorFlow/Keras models (large files)
-*.h5
+
 *.hdf5
 *.pb
 *.ckpt
 *.keras
-emotion_model.h5
-model.h5
-emotion_model_best.h5
+
+
+
 
 # Model info files
 *.pkl
