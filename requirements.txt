@@ -1,7 +1,7 @@
 absl-py
 astunparse
 beautifulsoup4
-blinker=
+blinker
 cachetools
 certifi
 charset-normalizer
